@@ -1,4 +1,4 @@
-# ig-notifier
+### ig-notifier
 
 This script checks an instagram users bio and sends a text if the data has changed based on a specfic need. 
 
